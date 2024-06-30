@@ -1,7 +1,0 @@
-{
-  "USERS": [
-    {"name": "Oleg", "groups": "sudo", "shell": "/bin/bash", "password": "OlegPassword123"},
-    {"name": "Ivan", "groups": "sudo", "shell": "/bin/bash", "password": "IvanPassword123"},
-    {"name": "Anna", "groups": "users", "shell": "/bin/bash", "password": "AnnaPassword123"}
-  ]
-}
