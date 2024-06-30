@@ -1,4 +1,4 @@
-- name: Basic Server Setup for Kali Linux
+- name: Basic Server Setup for Debian
   hosts: all
   become: yes
 
