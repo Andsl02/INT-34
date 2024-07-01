@@ -29,7 +29,7 @@
     <ol>
         <li>Клонируйте репозиторий на свою машину.</li>
         <li>Запустите плейбук 1 для базовой настройки сервера:
-            <pre><code>ansible-playbook -i inventory_file basic_server_setup.yml</code></pre>
+            <pre><code>ansible-playbook debian.yml</code></pre>
         </li>
     </ol>
 
